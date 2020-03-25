@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "coronavirus-tracker",
+            "version": "0.0.1",
+            "description": "a coronavirus tracker tool written in Node.Js",
+            "longDescription": "",
+            "githubLink": "https://github.com/michaelpeterswa/coronavirus-tracker",
+            "date": "03.25.2020"
+        }
+    ]
+}

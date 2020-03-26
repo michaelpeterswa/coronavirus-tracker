@@ -141,7 +141,6 @@ app.get('/count.js', function(req, res) {
 
 app.get('/ext/countUp.min.js', function(req, res) {
   res.sendFile(path.join(__dirname + '/../html/ext/countUp.min.js'));
-  //console.log("sending css");
 });
 
 app.use(function (req, res) {

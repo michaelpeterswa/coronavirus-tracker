@@ -1,0 +1,33 @@
+{
+  "name": "coronavirus-tracker",
+  "version": "0.0.1",
+  "description": "a coronavirus tracker using data from John Hopkins",
+  "main": "server.js",
+  "scripts": {
+    "test": "./scripts/start.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelpeterswa/coronavirus-tracker.git"
+  },
+  "keywords": [
+    "coronavirus"
+  ],
+  "author": "Michael Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelpeterswa/coronavirus-tracker/issues"
+  },
+  "homepage": "https://github.com/michaelpeterswa/coronavirus-tracker#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "countup.js": "^2.0.4",
+    "csvjson-csv2json": "^5.0.6",
+    "express": "^4.17.1",
+    "json": "^9.0.6",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7",
+    "ws": "^7.2.3"
+  }
+}

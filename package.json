@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/michaelpeterswa/coronavirus-tracker#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "countup.js": "^2.0.4",
     "csvjson-csv2json": "^5.0.6",
